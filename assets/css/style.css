@@ -7,13 +7,10 @@ header {
   header h1 {
     font-weight: bold;
     font-size: 36px;
-    color:#fce138;
-    margin: 0;
+    color:hsl(48, 6%, 16%);
+    margin: -10;
   }
 
-body {
-    /* more on this crazy alphanumerical value in a minute! */
-    color: blue;
-    text-underline-position: below;
+.styledfont {
     font-family: Helvetica, Arial, sans-serif;
   }
