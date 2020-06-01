@@ -222,7 +222,7 @@ body {
 .contact-info iframe {
   width: 400px;
   height: 400px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 .contact-info div {
@@ -237,6 +237,7 @@ body {
 .contact-info h3 {
   color: #fce138;
   font-size: 32px;
+  display: inline;
 }
 
 .contact-info p, .contact-info address {
