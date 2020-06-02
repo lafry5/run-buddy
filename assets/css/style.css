@@ -252,6 +252,11 @@ body {
   color: #fce138;
 }
 
+/*What is the propery formatting for the contact form? */
+.contact-form {
+  display:inline;
+}
+
 /* REACH OUT STYLES END */
 
 
