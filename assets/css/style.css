@@ -296,13 +296,12 @@ footer h2 {
   color: #024e76;
   font-size: 30px;
   margin: 0;
-}
+  }
 
 footer div {
   line-height: 1.5;
   display: flex;
-  justify-content: space-between;
-  flex-wrap: flex;
+  flex-wrap: wrap;
 }
 
 footer a {
